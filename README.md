@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Home Lab</b>
-  - [Tutorial Active Directory Home Lab](https://github.com/llauer/)
+- <b>Azure Honeynet - SOC</b>
+  - [Creating a Live Honeynet / SOC in Azure](https://github.com/llauer/Azure-Honeynet/blob/main/README.md)
 
 <h2>📄 Certifications and Resources:</h2>
 
