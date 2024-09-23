@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Tutorial Active Directory Home Lab](https://github.com/llauer/adhomelab)
+  - [Tutorial Active Directory Home Lab](https://github.com/llauer/)
 
 <h2>📄 Certifications and Resources:</h2>
 
