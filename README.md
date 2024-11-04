@@ -1,4 +1,4 @@
-<h1>Hi, I'm Larry! <br/>, </h1>
+<h1>Hi, I'm Larry! <br/> I am currently leveling up my skills to move into a cybersecurity role I have been doing different things in I.T. since the early 2000's and would like to take my learned skills and experience to apply to a more cybersecurity focused role., </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
